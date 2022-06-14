@@ -27,5 +27,3 @@
   <a href="https://dev.to/andcecilia" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
  
 </div> 
-# my top langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andcecilia)](https://github.com/andcecilia/github-readme-stats)
